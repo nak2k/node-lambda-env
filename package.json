@@ -1,0 +1,30 @@
+{
+  "name": "lambda-env",
+  "version": "0.0.1",
+  "description": "Configure environment variables for Lambda",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-lambda-env/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.88.0",
+    "tape": "^4.7.0"
+  },
+  "homepage": "https://github.com/nak2k/node-lambda-env",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nak2k/node-lambda-env.git"
+  },
+  "scripts": {
+    "prepare": "npm test",
+    "test": "tape test/test*.js"
+  },
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
