@@ -12,7 +12,10 @@
     "tape": "^4.7.0"
   },
   "homepage": "https://github.com/nak2k/node-lambda-env",
-  "keywords": [],
+  "keywords": [
+    "aws",
+    "lambda"
+  ],
   "license": "MIT",
   "main": "lib",
   "repository": {
