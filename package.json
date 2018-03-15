@@ -1,6 +1,6 @@
 {
   "name": "lambda-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configure environment variables for Lambda",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
