@@ -8,8 +8,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "aws-sdk": "^2.88.0",
-    "tape": "^4.7.0"
+    "aws-sdk": "^2.209.0",
+    "tape": "^4.9.0"
   },
   "homepage": "https://github.com/nak2k/node-lambda-env",
   "keywords": [
